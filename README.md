@@ -7,10 +7,6 @@
 **A cinematic, modern movie discovery web app**  
 Built with pure **HTML · CSS · JavaScript** and powered by the **TMDB API**
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Click%20Here-f5c518?style=for-the-badge&logoColor=black)](https://shahidchowdhurydev.github.io/CineVault/)
-[![GitHub Stars](https://img.shields.io/github/stars/shahidchowdhurydev/CineVault?style=for-the-badge&color=f5c518)](https://github.com/shahidchowdhurydev/CineVault/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/shahidchowdhurydev/CineVault?style=for-the-badge&color=f5c518)](https://github.com/shahidchowdhurydev/CineVault/forks)
-
 <br/>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
